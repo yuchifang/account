@@ -7,4 +7,6 @@ body {
   top: 40%;
   width: 90%;
   transform: translate(-50%,-50%);
+  background-color:rgb(164, 250, 138) ;
+  border: solid 5px rgb(164, 250, 138);
 }
