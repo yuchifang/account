@@ -8,4 +8,8 @@ body {
   width: 90%;
   transform: translate(-50%,-50%);
   background-color:rgb(164, 250, 138) ;
+<<<<<<< HEAD
+=======
+  border: solid 5px rgb(164, 250, 138);
+>>>>>>> b374eb317e32732ff6e11d2e8d2a9a5898038f66
 }
